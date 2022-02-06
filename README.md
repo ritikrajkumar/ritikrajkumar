@@ -13,7 +13,7 @@ I'm a 3rd Year CSE Undergrad at <b>Calcutta Institute of Engineering and Managem
 - 🌱 I’m currently learning Full Stack Development , Machine Learning and AI.
 - 👯 I’m looking to collaborate on some minor projects.
 - 🤔 I’m looking for help with Open Source Project Development.
-- 📫 You can reach me: ritikrajkumar007@gmail.com
+- 📫 You can mail me at: ritikrajkumar007@gmail.com
 - ⚡ Fun fact: I'm a happy programmer.
 - 💪 Motto: "If I don't have to do it, I won't. If I have to do it, I'll make it quick."
 - 🎆 I'm open for new opportunities.
