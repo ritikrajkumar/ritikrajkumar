@@ -44,6 +44,8 @@ I'm <b>Ritik Raj Kumar</b>, a <b>Full Stack Developer</b> and <b>Machine Learnin
     <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikrajkumar&show_icons=true&theme=dracula&hide_border=true" alt="ritikrajkumar's github stats" width="50%"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikrajkumar&hide=java&layout=compact&theme=dracula&hide_border=true" alt="top languages used" width="50%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikrajkumar&theme=dracula&hide_border=true" alt="github streaks" width="50%"/></p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=ritikrajkumar&show_icons=true&theme=dracula&hide_border=true" alt="ritikrajkumar's github stats" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikrajkumar&hide=java&layout=compact&theme=dracula&hide_border=true" alt="top languages used" width="60%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikrajkumar&theme=dracula&hide_border=true" alt="github streaks" width="60%"/>
+</p>
