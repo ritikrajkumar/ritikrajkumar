@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! Welcome to my profile, I'm Ritik! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px"> </h1>
+<h1 align="center">Hey there! Welcome to my profile, I'm Ritik! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
 
 <h3 align="center">A Passionate Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrajkumar" alt="ritikrajkumar"/> </p>
