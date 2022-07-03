@@ -1,32 +1,32 @@
 <h1 align="center">Hey there! Welcome to my profile, I'm Ritik! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">An aspiring Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrajkumar" alt="ritikrajkumar"/> </p>
 
 <p align="left"> <a href="https://twitter.com/ritikrkumar" target="blank"><img src="https://img.shields.io/twitter/follow/ritikrkumar?logo=twitter&style=for-the-badge" alt="ritikrkumar"/></a> </p>
 
 
-I'm <b>Ritik Raj Kumar</b>, a <b>Full Stack Developer</b> and <b>Machine Learning Enthusiast</b>, from Kolkata (West Bengal, India).
+I'm <b>Ritik Raj Kumar</b>, a <b>Front-end Web Developer</b> and <b>Cyber Security Enthusiast</b>, from Kolkata (West Bengal, India).
 
 <img align="right" alt="GIF" width="55%" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
 <b>More about me:</b>
 
-- 🎪 [Portfolio](https://sourcerer.io/ritikrajkumar)
-- 💻 I’m currently a 3rd year student at <b>Calcutta Institute of Engineering and Management</b>, Kolkata.
-- 🌱 I’m currently learning MERN stack and Full stack Development, Machine Learning and AI.
+<!--- 🎪 [Portfolio](https://sourcerer.io/ritikrajkumar) -->
+- 💻 I’m currently a 4th year student at <b>Calcutta Institute of Engineering and Management</b>, Kolkata.
+- 🌱 I’m currently learning Full Stack Development and App Development.
 - 👯 I’m looking to collaborate on any good project.
-- 🤔 My interests include Machine Learning, Web Development, App Devlopment and many more.
+- 🤔 My interests include Web Development, App Devlopment and many more.
 - 📫 You can mail me at: ritikrajkumar007@gmail.com.
-- 📝 See my [Curriculum Vitae](df) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1z_vF9ua-fs8g0uism8CCwBrQPi7kX4TM/view?usp=sharing) to get more info.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ritikrajkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikrajkumar" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/rekt07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riki22" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/ritikrajkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikrajkumar" height="30" width="40"/></a>
+<a href="https://www.codechef.com/users/riki22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riki22" height="30" width="40"/></a>
 <a href="https://twitter.com/ritikrkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikrkumar" height="30" width="40"/></a>
-<a href="https://instagram.com/ritik.kumar.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik.kumar.22" height="30" width="40"/></a>
+<a href="https://instagram.com/reevs.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik.kumar.22" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
