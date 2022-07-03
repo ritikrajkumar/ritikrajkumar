@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! Welcome to my profile, I'm Ritik! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
 
-<h3 align="center">An aspiring Software Developer</h3>
+<h3 align="center">An aspiring Software Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrajkumar" alt="ritikrajkumar"/> </p>
 
 <p align="left"> <a href="https://twitter.com/ritikrkumar" target="blank"><img src="https://img.shields.io/twitter/follow/ritikrkumar?logo=twitter&style=for-the-badge" alt="ritikrkumar"/></a> </p>
