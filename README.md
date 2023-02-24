@@ -8,7 +8,7 @@
 🤔 My interests include Web Development, Cloud Computing, Coding and many more.<br>📫 You can mail me at: ritikrajkumar007@gmail.com.<br>
 📝 See my [Resume](https://drive.google.com/file/d/1187faUL6DoYRE6RU2XFlquFLaO371tIw/view?usp=share_link) and [CV](https://drive.google.com/file/d/1Ae5UiPFajKr32rmXT-r7XLCW9PfVhPeN/view?usp=share_link) to get more info.
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik_gupta.22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikrajkumar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ritik-Gupta-94) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ritikrkumar) 
 
 # 💻 Tech Stack:
@@ -18,6 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ritikrajkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritikrajkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikrajkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritikrajkumar&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
