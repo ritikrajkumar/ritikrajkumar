@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" width="55%" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
 # 💫 About Me:
-💻 I’m currently a 4th year student at <b>Calcutta Institute of Engineering and Management</b>, Kolkata (West Bengal, India).<br>
+💻 I’m a B.Tech graduate from <b>Calcutta Institute of Engineering and Management</b>, Kolkata (West Bengal, India).<br>
 🌱 I’m currently learning Full Stack Development and Machine Learning.<br>
 👯 I’m looking to collaborate on any good project.<br>
 🤔 My interests include Web Development, Cloud Computing, Coding and many more.<br>📫 You can mail me at: ritikrajkumar007@gmail.com.<br>
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikrajkumar)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ritikrkumar)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ritik-Gupta-94)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik_gupta.22)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikrajkumar_)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/651095657595011075) 
 
 
