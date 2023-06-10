@@ -6,7 +6,7 @@
 🌱 I’m currently learning Full Stack Development and Machine Learning.<br>
 👯 I’m looking to collaborate on any good project.<br>
 🤔 My interests include Web Development, Cloud Computing, Coding and many more.<br>📫 You can mail me at: ritikrajkumar007@gmail.com.<br>
-📝 See my [Resume](https://drive.google.com/file/d/1187faUL6DoYRE6RU2XFlquFLaO371tIw/view?usp=share_link) to get more info.
+📝 See my [Resume](https://drive.google.com/file/d/1187faUL6DoYRE6RU2XFlquFLaO371tIw/view?usp=drive_link) to get more info.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikrajkumar)
